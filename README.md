@@ -90,14 +90,16 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thaihn28&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="thaihn28" /></p> -->
 
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=thaihn28&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaihn28&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+<div align="center">
+<img align="center" height='130px' src="https://github-readme-stats.vercel.app/api?username=thaihn28&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="center" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaihn28&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+</div>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thaihn28&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="thaihn28" /></p> -->
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thaihn28&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="thaihn28" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thaihn28&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="thaihn28" /></p>
 
 [![Thai Hoang Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=thaihn28&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](https://github.com/thaihn28)
 
@@ -106,5 +108,5 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
       src="https://github-profile-trophy.vercel.app/?username=adam-pw&bg_color=0d1117&text_color=ffffff" alt="adam-pw" /></a> </p> -->
       
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
+<p align="center"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
