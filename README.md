@@ -99,6 +99,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thaihn28&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="thaihn28" /></p>
 
+[![Thai Hoang Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=thaihn28&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](https://github.com/thaihn28)
+
 <!-- <br>
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
