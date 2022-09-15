@@ -92,6 +92,13 @@
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=thaihn28&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaihn28&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thaihn28&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="thaihn28" /></p> -->
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thaihn28&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="thaihn28" /></p>
+
 <!-- <br>
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
